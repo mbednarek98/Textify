@@ -15,10 +15,14 @@
 
 </div>
 
-Intro
+Textify is a native Android app that can scan any text from your camera and translate it to your chosen language. It is a handy tool for travelers who want to understand their surroundings better and communicate with ease.
 
 ## Features
-Features
+
+- Optical Character Recognition (OCR) technology that can recognize text from images in over 100 languages.
+- Translation service that can translate text, powered by [DeepL API](https://www.deepl.com).
+
+
 ## Screenshots
 <div align = "center">
   <picture>
