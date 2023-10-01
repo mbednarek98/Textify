@@ -22,24 +22,24 @@ Features
 ## Screenshots
 <div align = "center">
   <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/mainscreen.jpg">
-    <img alt="mainscreen" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/mainscreen.jpg">
+    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/mainscreen.png">
+    <img alt="mainscreen" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/mainscreen.png">
   </picture>
   <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/camera.jpg">
-    <img alt="camera" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/camera.jpg">
+    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/camera.png">
+    <img alt="camera" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/camera.png">
   </picture>
   <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/cameraphoto.jpg">
-    <img alt="cameraphoto" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/cameraphoto.jpg">
+    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/cameraphoto.png">
+    <img alt="cameraphoto" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/cameraphoto.png">
   </picture>
   <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filemanager.jpg">
-    <img alt="filemanager" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filemanager.jpg">
+    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filemanager.png">
+    <img alt="filemanager" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filemanager.png">
   </picture>
     <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filephoto.jpg">
-    <img alt="filephoto" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filephoto.jpg">
+    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filephoto.png">
+    <img alt="filephoto" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filephoto.png">
   </picture>
   
 </div>
