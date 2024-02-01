@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source height="200px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/logo.jpg">
-    <img alt="logo" height="200px" srcset="https://raw.githubusercontent.com/mbednarek98/FiFood/master/assets/logo.jpg">
-  </picture>
+  <img src="https://github.com/mbednarek98/Textify/blob/master/assets/logo.jpg?raw=true" width="200" alt="Textify Logo" />
 </div>
 
 <div align="center">
@@ -15,37 +12,23 @@
 
 </div>
 
-Textify is a native Android app that can scan any text from your camera and translate it to your chosen language. It is a handy tool for travelers who want to understand their surroundings better and communicate with ease.
+An Android native application designed to scan any text from your camera and translate it to your chosen language. It is a handy tool for travelers who want to understand their surroundings better and communicate with ease.
 
-## Features
+## ✨ Features
 
 - Optical Character Recognition (OCR) technology that can recognize text from images in over 100 languages.
 - Translation service that can translate text, powered by [DeepL API](https://www.deepl.com).
 
 
-## Screenshots
-<div align = "center">
-  <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/mainscreen.png">
-    <img alt="mainscreen" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/mainscreen.png">
-  </picture>
-  <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/camera.png">
-    <img alt="camera" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/camera.png">
-  </picture>
-  <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/cameraphoto.png">
-    <img alt="cameraphoto" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/cameraphoto.png">
-  </picture>
-  <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filemanager.png">
-    <img alt="filemanager" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filemanager.png">
-  </picture>
-    <picture>
-    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filephoto.png">
-    <img alt="filephoto" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/Textify/master/assets/filephoto.png">
-  </picture>
-  
+## 📷 Screenshots
+<div align="center">
+  <img src="https://github.com/mbednarek98/Textify/blob/master/assets/mainscreen.png?raw=true" width="175" alt="mainscreen" />
+  <img src="https://github.com/mbednarek98/Textify/blob/master/assets/camera.png?raw=true" width="175" alt="camera" />
+  <img src="https://github.com/mbednarek98/Textify/blob/master/assets/cameraphoto.png?raw=true" width="175" alt="cameraphoto" />
+  <img src="https://github.com/mbednarek98/Textify/blob/master/assets/filemanager.png?raw=true" width="175" alt="filemanager" />
+  <img src="https://github.com/mbednarek98/Textify/blob/master/assets/filephoto.png?raw=true" width="175" alt="filephoto" />
 </div>
 
+## 📕 License
 
+This project is licensed under the [MIT license](LICENSE)
