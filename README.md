@@ -10,9 +10,9 @@
 
 ![discord](https://dcbadge.vercel.app/api/shield/247463720337276929?style=flat) [![master](https://img.shields.io/badge/Documentation-5166f7)](https://docs.google.com/document/d/1TRKvozL6reIkKx1XJzCLjtZhmex7OQuZ4LPBstEmSKc/edit?usp=sharing)
 
+An Android native application designed to scan any text from your camera and translate it to your chosen language.<br>
+It is a handy tool for travelers who want to understand their surroundings better and communicate with ease.
 </div>
-
-An Android native application designed to scan any text from your camera and translate it to your chosen language. It is a handy tool for travelers who want to understand their surroundings better and communicate with ease.
 
 ## ✨ Features
 
